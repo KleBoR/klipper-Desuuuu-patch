@@ -15,7 +15,7 @@ jobs:
       - name: Checkout your forked repository
         uses: actions/checkout@v4
         with:
-          repository: xdadrm/klipper-Desuuuu-patch
+          repository: KleBoR/klipper-Desuuuu-patch
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
